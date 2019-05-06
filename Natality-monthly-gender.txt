@@ -1,0 +1,63 @@
+"Notes"	"Census Region"	"Census Region Code"	"Month"	"Month Code"	"Gender"	"Gender Code"	Births	Average Birth Weight	Standard Deviation for Average Birth Weight
+	"Census Region 1: Northeast"	"CENS-R1"	"January"	"1"	"Female"	"F"	5353	3187.60	608.21
+	"Census Region 1: Northeast"	"CENS-R1"	"January"	"1"	"Male"	"M"	5695	3313.52	621.51
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"January"	"1"			11048	3252.49	618.31
+	"Census Region 1: Northeast"	"CENS-R1"	"February"	"2"	"Female"	"F"	5044	3200.27	601.85
+	"Census Region 1: Northeast"	"CENS-R1"	"February"	"2"	"Male"	"M"	5230	3336.79	595.88
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"February"	"2"			10274	3269.80	602.70
+	"Census Region 1: Northeast"	"CENS-R1"	"March"	"3"	"Female"	"F"	5455	3212.27	605.57
+	"Census Region 1: Northeast"	"CENS-R1"	"March"	"3"	"Male"	"M"	5919	3344.03	619.88
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"March"	"3"			11374	3280.79	616.58
+	"Census Region 1: Northeast"	"CENS-R1"	"April"	"4"	"Female"	"F"	5277	3219.72	600.52
+	"Census Region 1: Northeast"	"CENS-R1"	"April"	"4"	"Male"	"M"	5685	3338.66	624.57
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"April"	"4"			10962	3281.38	615.98
+	"Census Region 1: Northeast"	"CENS-R1"	"May"	"5"	"Female"	"F"	5651	3228.72	581.02
+	"Census Region 1: Northeast"	"CENS-R1"	"May"	"5"	"Male"	"M"	5972	3346.93	619.29
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"May"	"5"			11623	3289.45	603.88
+	"Census Region 1: Northeast"	"CENS-R1"	"June"	"6"	"Female"	"F"	5717	3219.34	577.30
+	"Census Region 1: Northeast"	"CENS-R1"	"June"	"6"	"Male"	"M"	5883	3354.26	608.20
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"June"	"6"			11600	3287.80	597.00
+	"Census Region 1: Northeast"	"CENS-R1"	"July"	"7"	"Female"	"F"	5865	3222.80	579.29
+	"Census Region 1: Northeast"	"CENS-R1"	"July"	"7"	"Male"	"M"	6152	3342.66	613.84
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"July"	"7"			12017	3284.18	600.23
+	"Census Region 1: Northeast"	"CENS-R1"	"August"	"8"	"Female"	"F"	6122	3214.39	594.53
+	"Census Region 1: Northeast"	"CENS-R1"	"August"	"8"	"Male"	"M"	6458	3339.35	620.88
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"August"	"8"			12580	3278.51	611.39
+	"Census Region 1: Northeast"	"CENS-R1"	"September"	"9"	"Female"	"F"	5923	3225.21	578.15
+	"Census Region 1: Northeast"	"CENS-R1"	"September"	"9"	"Male"	"M"	6366	3342.90	607.43
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"September"	"9"			12289	3286.18	596.41
+	"Census Region 1: Northeast"	"CENS-R1"	"October"	"10"	"Female"	"F"	5863	3205.89	589.72
+	"Census Region 1: Northeast"	"CENS-R1"	"October"	"10"	"Male"	"M"	6019	3346.82	607.39
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"October"	"10"			11882	3277.26	602.87
+	"Census Region 1: Northeast"	"CENS-R1"	"November"	"11"	"Female"	"F"	5350	3205.41	587.11
+	"Census Region 1: Northeast"	"CENS-R1"	"November"	"11"	"Male"	"M"	5582	3326.09	628.17
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"November"	"11"			10932	3267.01	611.40
+	"Census Region 1: Northeast"	"CENS-R1"	"December"	"12"	"Female"	"F"	5435	3212.96	577.30
+	"Census Region 1: Northeast"	"CENS-R1"	"December"	"12"	"Male"	"M"	5729	3323.46	613.37
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"December"	"12"			11164	3269.68	598.64
+"Total"	"Census Region 1: Northeast"	"CENS-R1"					137745	3277.34	606.30
+"Total"							137745	3277.34	606.30
+"---"
+"Dataset: Natality, 2007-2017"
+"Query Parameters:"
+"States: Pennsylvania (42)"
+"Year: 2017"
+"Group By: Census Region; Month; Gender"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Apr 29, 2019 8:35:35 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2007-2017, on CDC"
+"WONDER Online Database, October 2018. Accessed at http://wonder.cdc.gov/natality-current.html on Apr 29, 2019 8:35:35 AM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
+"2. These items in the results table are not fully selected: Census Region 1: Northeast. The Query Description lists the actual"
+"values selected."
